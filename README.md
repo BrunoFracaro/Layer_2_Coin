@@ -1,13 +1,9 @@
-# Sample Hardhat Project
+# My Crypto Coin
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Deploy an ERC-20 standard Layer 2 coin.
 
-Try running some of the following tasks:
+Using Open Zeppelin contracts to ensure maximum compatibillity to any web3 platform.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Compile the contract, deploy, and interact with it.
+
+Using HardHat to compile and deploy the contract.
